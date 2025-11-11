@@ -114,8 +114,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# LaTeX auxiliary files
-
 
 # Backup files
 *.bak
