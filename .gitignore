@@ -115,18 +115,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # LaTeX auxiliary files
-*.aux
-*.bbl
-*.blg
-*.fdb_latexmk
-*.fls
-*.lof
-*.lot
-*.out
-*.toc
-*.synctex.gz
-*.pdf
-!rapport_benchmark.pdf
+
 
 # Backup files
 *.bak
