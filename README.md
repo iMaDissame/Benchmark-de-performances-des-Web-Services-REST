@@ -505,22 +505,6 @@ Un rapport LaTeX complet est disponible dans `rapport_benchmark.pdf` avec :
 
 ---
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-1. 🍴 Fork le projet
-2. 🌿 Créer une branche (`git checkout -b feature/amazing-feature`)
-3. 💾 Commit vos changements (`git commit -m 'Add amazing feature'`)
-4. 📤 Push sur la branche (`git push origin feature/amazing-feature`)
-5. 🔀 Ouvrir une Pull Request
-
----
-
-## 📜 License
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
 
 ## 👥 Auteurs
 
