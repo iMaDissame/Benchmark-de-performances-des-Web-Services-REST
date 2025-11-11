@@ -8,7 +8,8 @@
 
 > Benchmark comparatif exhaustif de trois approches REST en Java : **JAX-RS (Jersey)**, **Spring MVC** et **Spring Data REST**
 
-**[📘 Rapport détaillé](./Rapport_Benchmark_REST_Services.pdf)**
+## 📘 **<span style="color:white;">[Rapport détaillé](./Rapport_Benchmark_REST_Services.pdf)</span>**
+
 
 
 ## 📊 Résultats Clés
