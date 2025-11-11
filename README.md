@@ -524,38 +524,12 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👥 Auteurs
 
-- **Imad Issame** - [GitHub](https://github.com/yourusername)
-- **Mohammed Amine Agoumi** - [GitHub](https://github.com/yourusername)
-- **Mohammed Yahya Jabrane** - [GitHub](https://github.com/yourusername)
+- **Imad Issame** 
+- **Mohammed Amine Agoumi** 
+- **Mohammed Yahya Jabrane** 
 
 **Encadrant :** Mohamed Lachgar
 
----
-
-## 🙏 Remerciements
-
-- Architecture des Applications d'Entreprise - Université Chouaib Doukkali
-- Communauté Spring Framework
-- Communauté Eclipse Jersey
-- Apache JMeter Team
-
----
-
-## 📚 Ressources Complémentaires
-
-- [Documentation Jersey](https://eclipse-ee4j.github.io/jersey/)
-- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [Spring Data REST Guide](https://spring.io/guides/gs/accessing-data-rest/)
-- [Apache JMeter Best Practices](https://jmeter.apache.org/usermanual/best-practices.html)
-- [HikariCP Configuration](https://github.com/brettwooldridge/HikariCP)
-
----
-
-<div align="center">
-
-**⭐ Si ce projet vous a aidé, n'hésitez pas à lui donner une étoile ! ⭐**
-
-Made with ❤️ by the UCL Team
 
 </div>
 
